@@ -21,7 +21,11 @@
 }
 
 img {
-  cursor:pointer;
+  cursor: pointer;
+}
+
+.email_sender h3 {
+  margin: 5px 0px;
 }
 
 .our-contact {
